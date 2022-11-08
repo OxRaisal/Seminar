@@ -56,7 +56,7 @@ double sideC = Convert.ToDouble(Console.ReadLine());
 bool resTask1 = ExistanceTriangle(sideA, sideB, sideC);
 if (resTask1) Console.Write("Треугольник существует!");
 else Console.Write("Треугольник не существует!");
-bool check = a == b;
+
 
 
 /*
